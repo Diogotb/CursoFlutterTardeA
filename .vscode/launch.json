@@ -1,0 +1,32 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "meu_primeiro_flutter",
+            "cwd": "meu_primeiro_flutter",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "meu_primeiro_flutter (profile mode)",
+            "cwd": "meu_primeiro_flutter",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "meu_primeiro_flutter (release mode)",
+            "cwd": "meu_primeiro_flutter",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "Flutter",
+            "program": "lib/main.dart",
+            "cwd": "meu_primeiro_flutter",
+            "request": "launch",
+            "type": "dart"
+        }
+    ]
+}
